@@ -1,0 +1,3 @@
+C:/ahmed/Projects/Dictionary/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/raylib-populate.dir
+C:/ahmed/Projects/Dictionary/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/edit_cache.dir
+C:/ahmed/Projects/Dictionary/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/rebuild_cache.dir
